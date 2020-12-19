@@ -39,6 +39,11 @@ h3 {
   border-radius: 5px;
 }
 
+.tags {
+  display: flex;
+  justify-content: center;
+}
+
 .tag {
   background-color: #b81f4c;
   color: #fff;
